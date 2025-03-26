@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution: [https://github.com/cursebreakers/stat-card](https://github.com/cursebreakers/stat-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cursebreakers.github.io/stat-card/](https://cursebreakers.github.io/stat-card/)
 
 ## Process
 
